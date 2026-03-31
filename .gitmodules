@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "badp"]
-	path = badp
-	url = https://github.com/cran/badp
 [submodule "bdsm"]
 	path = bdsm
 	url = https://github.com/cran/bdsm
